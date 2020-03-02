@@ -1,5 +1,7 @@
 # Habit Tracker
 
+A website that represents a habit tracker
+
 ## Brief
 - Users should be able to login
 - Users should be able to choose a habit they want to track (e.g water, exercise, 8 hours of sleep) and choose the frequency at which they want to track the habit.
